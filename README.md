@@ -615,6 +615,9 @@ Push the committed changes to GitHub by clicking the ellipsis (...) and selectin
 By following these steps and utilizing the Git integration features in VS Code, developers can effectively manage version control, collaborate on projects, and maintain a well-documented history of code changes.
 
 
+REFERENCES:
+https://code.visualstudio.com/docs/getstarted/userinterface
+https://chatgpt.com
 
 
  Submission Guidelines:
