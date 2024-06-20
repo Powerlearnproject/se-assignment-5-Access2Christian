@@ -12,6 +12,7 @@ Answer the following questions based on your understanding of the installation a
 
 Answer: https://docs.google.com/document/d/19SWqVttL_hz1OZCwrl-G1JTX_CZwY8c5YRpLkNdKlCM/edit?usp=sharing
 
+
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
 
@@ -618,6 +619,7 @@ By following these steps and utilizing the Git integration features in VS Code, 
 REFERENCES:
 https://code.visualstudio.com/docs/getstarted/userinterface
 https://chatgpt.com
+https://www.geeksforgeeks.org/
 
 
  Submission Guidelines:
